@@ -1,0 +1,3 @@
+displayName = ToastTest
+author = Bardal
+version = 0.13
